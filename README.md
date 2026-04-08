@@ -197,7 +197,7 @@ ensure that they remain satisfied with their products.
   display on axis
 
 ### Visual
-![Q3 Top 10 Customers](screenshots/Q3_Top10_Customers.png)
+![Q3 Top 10 Customers](https://github.com/SarkarMita/Tata-Online-Retail-Data-Visualisation/blob/main/Bar%20Chart.png)
 
 ### Findings
 
