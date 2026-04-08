@@ -15,6 +15,7 @@
 - [Key Business Insights](#key-business-insights)
 - [Tools Used](#tools-used)
 - [Certificate](#certificate)
+- [PowerBI pbix file](#powerBI-pbix-File)
 - [Connect With Me](#connect-with-me)
 
 ---
@@ -331,6 +332,30 @@ experience program on Forage.
 ![Completion Certificate](https://github.com/SarkarMita/Tata-Online-Retail-Data-Visualisation/blob/main/completion_certificate.pdf)
 
 ---
+## 📂 Project Files
+
+The complete Power BI dashboard file is included 
+in this repository.
+
+| File | Description |
+|---|---|
+| [📊 OnlineRetailDashboard.pbix](https://github.com/SarkarMita/Tata-Online-Retail-DataVisualisation/blob/main/Online%20Retail%20Business%20Intelligence%20Report.pbit) | Complete Power BI Dashboard with all 4 visuals |
+
+### How to Open the Dashboard
+1. Download and install **Power BI Desktop** for free 
+   from https://powerbi.microsoft.com
+2. Click the link above to download the 
+   **OnlineRetailDashboard.pbix** file
+3. Open Power BI Desktop
+4. Click **File → Open** and select the downloaded file
+5. All 4 dashboard pages will load automatically
+
+### Dashboard Pages
+- 📅 **Q.1** — Monthly Revenue Trend 2011
+- 🌍 **Q.2** — Top 10 Countries by Revenue and Quantity
+- 👥 **Q.3** — Top 10 Customers by Revenue
+- 🗺️ **Q.4** — Global Product Demand Map
+https://github.com/SarkarMita/Tata-Online-Retail-Data-Visualisation/blob/main/Online%20Retail%20Business%20Intelligence%20Report.pbit
 
 ## 🔗 Connect With Me
 
