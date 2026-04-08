@@ -329,7 +329,7 @@ experience program on Forage.
 - 🎓 Issued by: Forage
 - 🏢 Program by: Tata Group
 
-![Completion Certificate](https://github.com/SarkarMita/Tata-Online-Retail-Data-Visualisation/blob/main/completion_certificate.pdf)
+![Completion Certificate](https://github.com/SarkarMita/Tata-Online-Retail-Data-Visualisation/blob/main/completion_certificate_page-0001.jpg)(https://github.com/SarkarMita/Tata-Online-Retail-Data-Visualisation/blob/main/completion_certificate.pdf)
 
 ---
 ## 📂 Project Files
