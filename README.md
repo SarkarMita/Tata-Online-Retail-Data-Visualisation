@@ -313,7 +313,6 @@ America represent longer term expansion opportunities.
 ## 🛠️ Tools Used
 
 - **Power BI Desktop** — Dashboard and visualisation creation
-- **Microsoft Bing Maps** — Global demand bubble map
 - **Microsoft Excel** — Raw data source
 - **Forage Platform** — Virtual experience program
 
