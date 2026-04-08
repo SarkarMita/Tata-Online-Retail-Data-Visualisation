@@ -263,7 +263,7 @@ countries that have expansion opportunities.
   with no scrolling
 
 ### Visual
-![Q4 Global Demand Map](screenshots/Q4_Global_Demand_Map.png)
+![Q4 Global Demand Map](https://github.com/SarkarMita/Tata-Online-Retail-Data-Visualisation/blob/main/Map.png)
 
 ### Findings
 
