@@ -145,7 +145,7 @@ to have the United Kingdom in this visual.
 - Sorted by descending revenue order
 
 ### Visual
-![Q2 Top 10 Countries](screenshots/Q2_Top10_Countries.png)
+![Q2 Top 10 Countries](https://github.com/SarkarMita/Tata-Online-Retail-Data-Visualisation/blob/main/Column%20Chart.png)
 
 ### Findings
 
