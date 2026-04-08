@@ -339,7 +339,9 @@ in this repository.
 
 | File | Description |
 |---|---|
-| [📊 OnlineRetailDashboard.pbix](https://github.com/SarkarMita/Tata-Online-Retail-Data-Visualisation/blob/main/Online%20Retail%20Business%20Intelligence%20Report.pbix) | Complete Power BI Dashboard with all 4 visuals |
+| [📊 OnlineRetailDashboard.pbix]
+(https://github.com/SarkarMita/Tata-Online-Retail-Data-Visualisation/blob/main/Online%20Retail%20Business%20Intelligence%20Report.pbix) 
+| Complete Power BI Dashboard with all 4 visuals |
 
 ### How to Open the Dashboard
 1. Download and install **Power BI Desktop** for free 
@@ -355,7 +357,7 @@ in this repository.
 - 🌍 **Q.2** — Top 10 Countries by Revenue and Quantity
 - 👥 **Q.3** — Top 10 Customers by Revenue
 - 🗺️ **Q.4** — Global Product Demand Map
-https://github.com/SarkarMita/Tata-Online-Retail-Data-Visualisation/blob/main/Online%20Retail%20Business%20Intelligence%20Report.pbit
+
 
 ## 🔗 Connect With Me
 
