@@ -91,7 +91,7 @@ the CEO to forecast for the next year.
 - Added data labels to each monthly data point
 
 ### Visual
-![Q1 Monthly Revenue](https://github.com/SarkarMita/Tata-Online-Retail-Data-Visualisation/blob/main/Bar%20Chart.png)
+![Q1 Monthly Revenue](https://github.com/SarkarMita/Tata-Online-Retail-Data-Visualisation/blob/main/Line%20Chart.png)
 
 ### Findings
 
