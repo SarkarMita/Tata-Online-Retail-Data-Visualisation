@@ -339,7 +339,7 @@ in this repository.
 
 | File | Description |
 |---|---|
-| [📊 OnlineRetailDashboard.pbix](https://github.com/SarkarMita/Tata-Online-Retail-DataVisualisation/blob/main/Online%20Retail%20Business%20Intelligence%20Report.pbit) | Complete Power BI Dashboard with all 4 visuals |
+| [📊 OnlineRetailDashboard.pbix](https://github.com/SarkarMita/Tata-Online-Retail-Data-Visualisation/blob/main/Online%20Retail%20Business%20Intelligence%20Report.pbix) | Complete Power BI Dashboard with all 4 visuals |
 
 ### How to Open the Dashboard
 1. Download and install **Power BI Desktop** for free 
